@@ -1,0 +1,2 @@
+# light_rain
+Raspberry Piを用いてLEDマトリクスに雨のアニメーションを表示するプログラムを書きました。
